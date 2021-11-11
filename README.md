@@ -6,3 +6,9 @@ https://hub.docker.com/r/mdes4214/openjdk11
 
 ## MongoDB
 https://www.mongodb.org/dl/linux/x86_64
+
+## MariaDB
+https://mariadb.org/download/
+
+## MinIO
+https://min.io/download
