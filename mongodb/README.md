@@ -4,12 +4,12 @@ https://hub.docker.com/r/mdes4214/openjdk11
 ## Image Tag
 
 Debian
-- `jdk-11.0.13-debian-10-mongodb-4.4.10`
-- `jdk-11.0.13-debian-10-mongodb-5.1.0`
+- `11.0.13-jdk-debian10-mongodb4.4.10`
+- `11.0.13-jdk-debian10-mongodb5.1.0`
 
 Debian-Slim
-- `jdk-11.0.13-debianslim-10-mongodb-4.4.10`
-- `jdk-11.0.13-debianslim-10-mongodb-5.1.0`
+- `11.0.13-jdk-debianslim10-mongodb4.4.10`
+- `11.0.13-jdk-debianslim10-mongodb5.1.0`
 
 ## MongoDB
 https://www.mongodb.org/dl/linux/x86_64
