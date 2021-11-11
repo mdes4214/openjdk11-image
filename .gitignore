@@ -1,1 +1,4 @@
 *.tgz
+*.gz
+*.tar
+*.deb
